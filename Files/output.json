@@ -1,0 +1,10 @@
+{
+  "src": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-_",
+  "dst": "oE5J6vu_AikszPbNK1TWjV-X29Ue0HFZDILRwdclBxp3M8tOamGgCQSh7rnfqy4Y",
+  "static_path": "2eeec28a/acea4c02bf30505abfeda0bbd2c9bf57189e299a302a64a088acca0c40dc9c47/otujosnub/1000092240837998/7b97259b75afc183a62b5745ee91feee633196e3",
+  "http_method": "GET",
+  "key_hex": "94e85c22b4df4848cd222b989dbcda3837a0337e101f7f3807999bef7ecca15f",
+  "iv_hex": "335a8603e5cbd87e1e22dc6c18fdd5ba",
+  "xor_key": "e258d953232391c4c3a1",
+  "csrf_token": "2hMBbDj1GbuON0tOGuitsOFTlVcLwoV8"
+}
