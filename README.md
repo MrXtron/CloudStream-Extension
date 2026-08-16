@@ -30,7 +30,7 @@ Cloud Stream ( To install : [View Docs](https://recloudstream.github.io/csdocs/)
 2) **Short URL** : https://py.md/xtronrepo
 3) **Manual Install** (Copy and Paste in add Repo of Cloud Stream) :
 
-        https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/repo.json
+        https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/builds/repo.json
 ---
 
 ## 🧩 Available Plugins
