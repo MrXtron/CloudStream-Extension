@@ -25,10 +25,10 @@
     },
     {
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
-        "fileHash": "sha256-a44395ea69ab6e14733b81158f255928e0af73bb1ffdd8098e31207093d575f6",
+        "fileHash": "sha256-b72e7802bb68ecab7a599a1a744cd52321d230256485ba3125413b725e42a0b1",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-        "fileSize": 98002,
+        "fileSize": 98583,
         "status": 1,
         "language": "en",
         "authors": [
@@ -38,16 +38,16 @@
             "Movie",
             "TvSeries"
         ],
-        "version": 107,
+        "version": 108,
         "internalName": "CNC Verse",
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC%20Verse.cs3",
+        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
         "name": "CNC Verse"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
         "status": 1,
-        "version": 658,
+        "version": 659,
         "name": "StreamPlay",
         "internalName": "StreamPlay",
         "authors": [
@@ -55,7 +55,7 @@
             "Hexated"
         ],
         "description": "#1 best extention based on MultiAPI",
-        "fileSize": 1003473,
+        "fileSize": 1002794,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "language": "en",
         "tvTypes": [
@@ -68,7 +68,7 @@
         ],
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
         "apiVersion": 1,
-        "fileHash": "sha256-e6655d26146851000b73d1fbd8aeb33a1043ef447eb2e2195bdcef75543fedcb"
+        "fileHash": "sha256-f27198a590c8a1728db2ea7f6d99c9226feee10b6f3f7756d95fca7cc6850d3e"
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
