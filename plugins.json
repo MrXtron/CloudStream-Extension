@@ -89,9 +89,9 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
-        "status": 0,
+        "status": 1,
         "version": 16,
-        "name": "HdMovie2",
+        "name": "HdMovie2 (Broken)",
         "internalName": "HdMovie2",
         "authors": [
             "-"
@@ -204,9 +204,9 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndiaProvider.cs3",
-        "status": 0,
+        "status": 1,
         "version": 6,
-        "name": "RadioIndiaProvider",
+        "name": "RadioIndiaProvider (Broken)",
         "internalName": "RadioIndiaProvider",
         "authors": [
             "Xtron"
@@ -272,9 +272,9 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
-        "status": 0,
+        "status": 1,
         "version": 15,
-        "name": "XtronPlay",
+        "name": "XtronPlay (Broken)",
         "internalName": "XtronPlay",
         "authors": [
             "Xtron"
