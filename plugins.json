@@ -114,7 +114,7 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Mob).cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "MovieBox (Mob)",
         "internalName": "MovieBox (Mob)",
         "authors": [
@@ -130,7 +130,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-79f0f25965357162a4468d1ba695dca6ecd3fa706ab749d537af902f544f97e4"
+        "fileHash": "sha256-a423fd47c0a386b4394fd23ef220ddb9813f0efad1054aa7af0a039a9f58aadf"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
