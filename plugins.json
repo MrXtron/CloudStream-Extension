@@ -121,7 +121,7 @@
             "Xtron,NivinCNC,Phisher98"
         ],
         "description": "Multi Language Movies and Series Provider",
-        "fileSize": 70663,
+        "fileSize": 70528,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -130,7 +130,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7321489e845033dc4d17f9e032dfdbf8d12f876baf704efd57af576393740e9d"
+        "fileHash": "sha256-79f0f25965357162a4468d1ba695dca6ecd3fa706ab749d537af902f544f97e4"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
