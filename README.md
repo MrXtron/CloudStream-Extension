@@ -38,19 +38,19 @@ Cloud Stream ( To install : [View Docs](https://recloudstream.github.io/csdocs/)
 
 | Icon | Name | TV Types | Version | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyflix** | TvSeries, Movie, AsianDrama, Anime | 5 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyflix** | TvSeries, Movie, AsianDrama, Anime | 6 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyzone** | TvSeries | 5 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png" width="35" height="35" style="border-radius: 20%;"> | **DudeFilms** | Movie, TvSeries | 9 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 11 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2 (Broken)** | TvSeries, Movie | 16 | ❌ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Mob)** | Movie, TvSeries | 17 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png" width="35" height="35" style="border-radius: 20%;"> | **DudeFilms** | Movie, TvSeries | 10 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 12 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2** | TvSeries, Movie | 17 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Mob)** | Movie, TvSeries | 18 | ✅ |
 | <img src="https://moviebox.ph/favicon.ico" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Web)** | Movie, TvSeries | 4 | ✅ |
 | <img src="https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png" width="35" height="35" style="border-radius: 20%;"> | **Movies4u** | Movie, TvSeries | 4 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png" width="35" height="35" style="border-radius: 20%;"> | **MultiMoviesProvider** | Movie, TvSeries, Anime | 49 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png" width="35" height="35" style="border-radius: 20%;"> | **MultiMoviesProvider** | Movie, TvSeries, Anime | 50 | ✅ |
 | <img src="https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png" width="35" height="35" style="border-radius: 20%;"> | **RadioIndiaProvider (Broken)** | Live | 6 | ❌ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/RogMovies.png" width="35" height="35" style="border-radius: 20%;"> | **RogMovies** | TvSeries, Movie, AsianDrama, Anime | 6 | ✅ |
 | <img src="https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png" width="35" height="35" style="border-radius: 20%;"> | **ToonHub** | AnimeMovie, Anime, Cartoon | 11 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlay (Broken)** | Movie, TvSeries | 15 | ❌ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlay (Broken)** | Movie, TvSeries | 16 | ❌ |
 
 **Total Plugins:** 13
 
