@@ -1,7 +1,7 @@
 {
     "name": "XtronRepo",
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/RepoIcon.png",
-    "description": "Lightweight and reliable CloudStream Extensions for seamless streaming.",
+    "description": "CloudStream Extension for seamless streaming.",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/builds/plugins.json",
