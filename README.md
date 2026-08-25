@@ -38,7 +38,7 @@ Cloud Stream ( To install : [View Docs](https://recloudstream.github.io/csdocs/)
 
 | Icon | Name | TV Types | Version | Status |
 | :---: | :--- | :--- | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyflix** | TvSeries, Movie, AsianDrama, Anime | 7 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyflix** | TvSeries, Movie, AsianDrama, Anime | 8 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyzone** | TvSeries | 6 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png" width="35" height="35" style="border-radius: 20%;"> | **DudeFilms** | Movie, TvSeries | 11 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 13 | ✅ |
