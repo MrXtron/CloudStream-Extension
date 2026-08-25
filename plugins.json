@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyflix.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "Bollyflix",
         "internalName": "Bollyflix",
         "authors": [
             "Xtron"
         ],
         "description": "Movies and Series upto 4K",
-        "fileSize": 39445,
+        "fileSize": 39833,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -20,7 +20,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ceba24c699245290297fd0ce3c53bd1db9e77606443b1a1661c693cebef909cc"
+        "fileHash": "sha256-705553ec3a9bf4bdd2592bea637b9e7ae030640f837faffe173bd548ce8ee205"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyzone.cs3",
@@ -94,7 +94,7 @@
             "Xtron"
         ],
         "description": "Hdmovie2",
-        "fileSize": 40649,
+        "fileSize": 41852,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -103,7 +103,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e9cce5fcf829c76c9710201795ed0e99c1be4463d9b5a06d17e99af7fc601ef9"
+        "fileHash": "sha256-84f3317e6150dc67170f6add981880ec53c012df0118e298f76dbde1dc079400"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Mob).cs3",
