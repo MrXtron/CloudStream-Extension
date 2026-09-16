@@ -267,14 +267,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/VegaMovies.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "VegaMovies",
         "internalName": "VegaMovies",
         "authors": [
             "Xtron"
         ],
         "description": " Ultimate Portal for HD Movies & Web Series",
-        "fileSize": 40395,
+        "fileSize": 41080,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -285,7 +285,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png",
         "apiVersion": 1,
-        "fileHash": "sha256-4c28375b91ceb4953e174073b1e1f8c738a1eb86c6f5ea855141fc1e9aab7c30"
+        "fileHash": "sha256-3f642d5b1f1bf197dadddd0ca0786930ac1c861d1aac5240f16cccbd6287d7ab"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
