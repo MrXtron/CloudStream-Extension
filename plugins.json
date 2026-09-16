@@ -25,14 +25,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyzone.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "Bollyzone",
         "internalName": "Bollyzone",
         "authors": [
             "MrXtron"
         ],
         "description": "Tv Shows Provider",
-        "fileSize": 32554,
+        "fileSize": 31971,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -40,7 +40,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png",
         "apiVersion": 1,
-        "fileHash": "sha256-21d2c4c1e5e894672ebf423532660e37347e18576e72e46398a8b70c4745f532"
+        "fileHash": "sha256-912fba0d94bc9b4dc825ee06d3702157202b4ca4a75a707791d0e88db0357d7f"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
@@ -174,14 +174,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "MultiMovies",
         "internalName": "MultiMovies",
         "authors": [
             "Phisher98"
         ],
         "description": "Indian Multi-language HD Provider",
-        "fileSize": 46878,
+        "fileSize": 46181,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -191,10 +191,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b961f97de57adfca9c0c45243f2780c5fb4380d1f43a722dbcc0a42303c46d75",
-        "jarFileSize": 204289,
+        "fileHash": "sha256-3e720de6df4369856df288db176de6e76d416ddfbf1a063f87d86a6083a42977",
+        "jarFileSize": 202656,
         "jarUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.jar",
-        "jarHash": "sha256-14bc9621e9d8165577b811b0188c1ecf0925183284824081596ac29614ee96f3"
+        "jarHash": "sha256-9ba110123bc0a151319b8dde14d73f01d9b4fcbc15ffb18b6b3668930389b402"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndiaProvider.cs3",
