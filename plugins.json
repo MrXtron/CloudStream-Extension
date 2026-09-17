@@ -25,14 +25,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyzone.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "Bollyzone",
         "internalName": "Bollyzone",
         "authors": [
             "MrXtron"
         ],
         "description": "Tv Shows Provider",
-        "fileSize": 31971,
+        "fileSize": 32532,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -40,7 +40,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png",
         "apiVersion": 1,
-        "fileHash": "sha256-912fba0d94bc9b4dc825ee06d3702157202b4ca4a75a707791d0e88db0357d7f"
+        "fileHash": "sha256-e72cd100541ebeead5361c8ee470c28afd2687923ad8cd2a4df83bc65923118d"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
@@ -87,14 +87,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
         "status": 1,
-        "version": 22,
+        "version": 24,
         "name": "HdMovie2",
         "internalName": "HdMovie2",
         "authors": [
             "Xtron"
         ],
         "description": "Hdmovie2",
-        "fileSize": 31851,
+        "fileSize": 16269,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -103,7 +103,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1c54a763070b389fc697a4308aef634b740503b558a14887d34e02c0e88ed2c9"
+        "fileHash": "sha256-ad0063079e9bfbc1ee6ec7ca5b3385fa4d6579d0ca26ec7a492718060793e6cc"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Mob).cs3",
