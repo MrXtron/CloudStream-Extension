@@ -32,10 +32,10 @@ https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/build
 | Icon | Name | TV Types | Version | Status |
 | :---: | :--- | :--- | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyflix** | TvSeries, Movie, AsianDrama, Anime | 9 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyzone** | TvSeries | 9 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyzone** | TvSeries | 10 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png" width="35" height="35" style="border-radius: 20%;"> | **DudeFilms** | Movie, TvSeries | 11 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 14 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2** | TvSeries, Movie | 22 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2** | TvSeries, Movie | 24 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Mob)** | Movie, TvSeries | 21 | ✅ |
 | <img src="https://moviebox.ph/favicon.ico" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Web)** | Movie, TvSeries | 4 | ✅ |
 | <img src="https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png" width="35" height="35" style="border-radius: 20%;"> | **Movies4u** | Movie, TvSeries | 5 | ✅ |
