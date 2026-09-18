@@ -108,14 +108,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Mob).cs3",
         "status": 1,
-        "version": 21,
+        "version": 22,
         "name": "MovieBox (Mob)",
         "internalName": "MovieBox (Mob)",
         "authors": [
             "Xtron"
         ],
         "description": "Multi Language Movies and Series Provider",
-        "fileSize": 71015,
+        "fileSize": 71040,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-47d9f21399d384f6ce06f01141e7234db47b5d16aee633eaa1a0833e59413cee"
+        "fileHash": "sha256-baed01dbacb88ab20f86080664b4fff12ddb063d25571f11b74f05f8aad59690"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
