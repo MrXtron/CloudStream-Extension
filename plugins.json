@@ -88,7 +88,7 @@
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
         "status": 1,
         "version": 27,
-        "name": "HdMovie2 (Broken)",
+        "name": "HdMovie2",
         "internalName": "HdMovie2",
         "authors": [
             "Xtron"
@@ -108,14 +108,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Mob).cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "MovieBox (Mob)",
         "internalName": "MovieBox (Mob)",
         "authors": [
             "Xtron"
         ],
         "description": "Multi Language Movies and Series Provider",
-        "fileSize": 71040,
+        "fileSize": 70307,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-baed01dbacb88ab20f86080664b4fff12ddb063d25571f11b74f05f8aad59690"
+        "fileHash": "sha256-8a189d9249ac88fc379e6b5a0e231b75643fb3fb2e302060c2c81b321a1acfee"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
