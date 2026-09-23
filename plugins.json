@@ -66,13 +66,13 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdHub4U.cs3",
         "status": 1,
-        "version": 17,
+        "version": 18,
         "name": "HdHub4U",
         "internalName": "HdHub4U",
         "authors": [
             "Xtron"
         ],
-        "fileSize": 84488,
+        "fileSize": 84485,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -82,7 +82,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png",
         "apiVersion": 1,
-        "fileHash": "sha256-01a42e3a7c852febc67e77af085ac14e1aba38f589f4eb5ee07f1345e71003df"
+        "fileHash": "sha256-2e8fdd2602780bc88a5695ee48e37f3b7693586f0a459c10eb721bd4d8ffab92"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
@@ -106,27 +106,6 @@
         "fileHash": "sha256-10dab5f61043a0dfc5424eeddd9d88223e0140f3fd233619171508a06b83359f"
     },
     {
-        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Mob).cs3",
-        "status": 1,
-        "version": 23,
-        "name": "MovieBox (Mob)",
-        "internalName": "MovieBox (Mob)",
-        "authors": [
-            "Xtron"
-        ],
-        "description": "Multi Language Movies and Series Provider",
-        "fileSize": 70307,
-        "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-8a189d9249ac88fc379e6b5a0e231b75643fb3fb2e302060c2c81b321a1acfee"
-    },
-    {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
         "status": 1,
         "version": 5,
@@ -136,7 +115,7 @@
             "Xtron"
         ],
         "description": "MovieBox- Movies and TV Series",
-        "fileSize": 42914,
+        "fileSize": 44398,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -145,7 +124,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-b29997e2fc19d33b301c563469d168723494ad51b97c91e5c5c84ee84a00c342"
+        "fileHash": "sha256-f0d858769c84e90e22ea8e4de550662a9b067401079963bcfc5be78fec234c47"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
@@ -198,7 +177,7 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndiaProvider.cs3",
-        "status": 1,
+        "status": 3,
         "version": 6,
         "name": "RadioIndiaProvider (Broken)",
         "internalName": "RadioIndiaProvider",
@@ -209,9 +188,7 @@
         "fileSize": 12461,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
-        "tvTypes": [
-            "Live"
-        ],
+        "tvTypes": [],
         "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
         "apiVersion": 1,
         "fileHash": "sha256-919bebaab3c8e4dc0a37e77ea933477f890a75a7ee5f6e2819109656b7bfb12d"
@@ -311,21 +288,22 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlayTV.cs3",
         "status": 1,
-        "version": 12,
+        "version": 15,
         "name": "XtronPlayTV",
         "internalName": "XtronPlayTV",
         "authors": [
             "Xtron"
         ],
         "description": "Ultimate hub for Indian Daily Soaps & Dramas from BollyZone and DesiSerials",
-        "fileSize": 60388,
+        "fileSize": 49947,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
+            "Movie",
             "TvSeries"
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c3f8bba5e0f46052c456613105df4f4d9db6b9a73c471f7d92eb680fba5fe04f"
+        "fileHash": "sha256-fb96a4cfc868c85893caef22457b894c02c86af9091b032b0dc2f39b9eb80efb"
     }
 ]
