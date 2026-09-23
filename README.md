@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/build
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyzone** | TvSeries | 10 | ✔️ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png" width="35" height="35" style="border-radius: 20%;"> | **DudeFilms** | Movie, TvSeries | 14 | ✔️ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 18 | ✔️ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2** | TvSeries, Movie | 27 | ✔️ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2** | TvSeries, Movie | 28 | ✔️ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png" width="35" height="35" style="border-radius: 20%;"> | **MovieBox** | Movie, TvSeries | 24 | ✔️ |
 | <img src="https://moviebox.ph/favicon.ico" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Web)** | Movie, TvSeries | 6 | ✔️ |
 | <img src="https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png" width="35" height="35" style="border-radius: 20%;"> | **Movies4u** | Movie, TvSeries | 5 | ✔️ |
