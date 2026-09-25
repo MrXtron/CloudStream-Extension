@@ -94,7 +94,7 @@
             "Xtron"
         ],
         "description": "Hdmovie2",
-        "fileSize": 37020,
+        "fileSize": 35945,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -103,7 +103,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
         "apiVersion": 1,
-        "fileHash": "sha256-23b1c66d6877d3349a3eaa2fad9bcc9356a629a0b94ab622e2e7f6284135556e"
+        "fileHash": "sha256-40dd3d1a94d069cd811378dd5b16dbf5aef81c21e16b99da61c4cad224d5aab5"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
