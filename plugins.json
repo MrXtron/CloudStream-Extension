@@ -108,14 +108,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "MovieBox",
         "internalName": "MovieBox",
         "authors": [
             "Xtron"
         ],
-        "description": "Multi Language Movies and Series Provider",
-        "fileSize": 68886,
+        "description": "Multi Language Movies & TV Series with high-speed multi-audio mirrors",
+        "fileSize": 68878,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b455937893f3b941b151253067483a3ca0f34fca870a233fa1175135d0fec318"
+        "fileHash": "sha256-d3c2121b822df6c829253096d5929372c90aec3a3bae2382e327faf82334c2df"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
@@ -297,7 +297,7 @@
             "Xtron"
         ],
         "description": "Contents of Netflix, PrimeVideo, Disney+ Hotstar in Multiple Languages",
-        "fileSize": 77976,
+        "fileSize": 77985,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -306,7 +306,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a90a402a9c7db20a8410647515923d68ec72bf4a35b7dea2f888a7931b6e55c2"
+        "fileHash": "sha256-35022469a3925413d90731b925518ab1cc8e46a06202b207bd01cc85049e7d8c"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlayTV.cs3",
