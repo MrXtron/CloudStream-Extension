@@ -32,7 +32,7 @@
             "MrXtron"
         ],
         "description": "Tv Shows Provider",
-        "fileSize": 32532,
+        "fileSize": 32585,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -40,7 +40,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e72cd100541ebeead5361c8ee470c28afd2687923ad8cd2a4df83bc65923118d"
+        "fileHash": "sha256-f3661e8b8cc9d9d291d483464aea987d5bcd90b2f603e28b6abf40feeddd6758"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
@@ -115,7 +115,7 @@
             "Xtron"
         ],
         "description": "Multi Language Movies & TV Series with high-speed multi-audio mirrors",
-        "fileSize": 69010,
+        "fileSize": 67884,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-25bbc33facd18ca86c042278da2d95ce905cd667e674a1cd939c71f8db2cf926"
+        "fileHash": "sha256-4618aefc91adca96b7132da1755c5c2e63ab08f05a25d062b346c2c6b7c653ef"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
