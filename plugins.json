@@ -297,7 +297,7 @@
             "Xtron"
         ],
         "description": "Contents of Netflix, PrimeVideo, Disney+ Hotstar in Multiple Languages",
-        "fileSize": 76578,
+        "fileSize": 83438,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -306,7 +306,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d57147df8b2191e8f3e9db4582651606a809f4e538994c4671f3ae4e3cb328fd"
+        "fileHash": "sha256-a473a332496bb813b9b139bafb4fe6483eb785c85eed51bec86610c79e5b622f"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
