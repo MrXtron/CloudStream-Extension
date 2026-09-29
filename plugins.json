@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1be2df0dee280a54db3a8353907d3ed34ad9600a0aa172bde87a1e1a2f7835a5"
+        "fileHash": "sha256-728f946da9065042b81fdf283a519fbc722f985f2b579e18326e710595b13bcb"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdHub4U.cs3",
@@ -157,7 +157,7 @@
             ""
         ],
         "description": "Movies4u",
-        "fileSize": 73571,
+        "fileSize": 73540,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -166,10 +166,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png",
         "apiVersion": 1,
-        "fileHash": "sha256-213f1e807acc9b520c738f4be68ff436a4803d5558d3dea628bd99564c76a779",
-        "jarFileSize": 362655,
+        "fileHash": "sha256-9000e8e1a24585ec427dd123066f584a9fecc091909d85f1acbb6be7ebda65fc",
+        "jarFileSize": 362672,
         "jarUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.jar",
-        "jarHash": "sha256-cc2ac7fac9f31a04b74ca9c89a351ce0355ddcc4d5d88dbef4099345c1635042"
+        "jarHash": "sha256-be881c710e5b583787bf5d61d84f134b4b500920e327263ce61b4a831723d824"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
@@ -197,16 +197,16 @@
         "jarHash": "sha256-4667e25843cd60bad6a103dc2d6cd6104f566dfe22f72a2e7ceaaba3ca169083"
     },
     {
-        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndiaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndia.cs3",
         "status": 1,
-        "version": 6,
-        "name": "RadioIndiaProvider",
-        "internalName": "RadioIndiaProvider",
+        "version": 7,
+        "name": "RadioIndia",
+        "internalName": "RadioIndia",
         "authors": [
             "Xtron"
         ],
         "description": "Radio India Provider",
-        "fileSize": 12461,
+        "fileSize": 13828,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -214,7 +214,7 @@
         ],
         "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
         "apiVersion": 1,
-        "fileHash": "sha256-919bebaab3c8e4dc0a37e77ea933477f890a75a7ee5f6e2819109656b7bfb12d"
+        "fileHash": "sha256-15ecca18000d2eac161754ca8082341c48f6add13c07b44186438f82ffee5010"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RogMovies.cs3",
@@ -274,7 +274,7 @@
             "Xtron"
         ],
         "description": " Ultimate Portal for HD Movies & Web Series",
-        "fileSize": 41080,
+        "fileSize": 41057,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -285,7 +285,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3f642d5b1f1bf197dadddd0ca0786930ac1c861d1aac5240f16cccbd6287d7ab"
+        "fileHash": "sha256-e504b280cf6a85f0629d1134727b7bfc31b6c5f2c47e602626d9f6d7e4bbd32a"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
