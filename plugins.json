@@ -86,9 +86,9 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
-        "status": 3,
+        "status": 1,
         "version": 14,
-        "name": "HdMovie2 (Broken)",
+        "name": "HdMovie2",
         "internalName": "HdMovie2",
         "authors": [
             "Xtron"
@@ -198,9 +198,9 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndiaProvider.cs3",
-        "status": 3,
+        "status": 1,
         "version": 6,
-        "name": "RadioIndiaProvider (Broken)",
+        "name": "RadioIndiaProvider",
         "internalName": "RadioIndiaProvider",
         "authors": [
             "Xtron"
@@ -318,7 +318,7 @@
             "Xtron"
         ],
         "description": "Ultimate hub for Indian Hindi Daily Soaps & Dramas",
-        "fileSize": 62010,
+        "fileSize": 61583,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -327,6 +327,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2a67dea7c0fff60e97d14e549e7e01c6c532f07a15171ce0bcc3353ce89c186b"
+        "fileHash": "sha256-9efb6764df13cb44b6afb30872bf65c480349620dfaee168960e6458dd661876"
     }
 ]
