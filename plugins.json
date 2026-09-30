@@ -289,15 +289,15 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
-        "status": 3,
-        "version": 20,
-        "name": "XtronPlay (Broken)",
+        "status": 1,
+        "version": 24,
+        "name": "XtronPlay",
         "internalName": "XtronPlay",
         "authors": [
             "Xtron"
         ],
-        "description": "Contents of Netflix, PrimeVideo, Disney+ Hotstar in Multiple Languages",
-        "fileSize": 83438,
+        "description": "All-in-One Premium Stream Engine for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
+        "fileSize": 94451,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -306,7 +306,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a473a332496bb813b9b139bafb4fe6483eb785c85eed51bec86610c79e5b622f"
+        "fileHash": "sha256-ed5a1225550d32a1a7aec787cbdcaa19d42b28df94f59507316b394e159b9e52"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
