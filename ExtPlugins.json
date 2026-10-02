@@ -20,8 +20,7 @@
             "Torrent"
         ],
         "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-44f60181676e767095bdbb828379f4a7cfdda2c41431806ea9cf6a0d238f7eb6"
+        "apiVersion": 1
     },
     {
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
@@ -66,8 +65,7 @@
             "AnimeMovie"
         ],
         "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
-        "apiVersion": 1,
-        "fileHash": "sha256-f27198a590c8a1728db2ea7f6d99c9226feee10b6f3f7756d95fca7cc6850d3e"
+        "apiVersion": 1
     },
     {
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
@@ -86,8 +84,7 @@
             "All"
         ],
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
-        "apiVersion": 1,
-        "fileHash": "sha256-5081f87ebc4e8b2c9d66b7b7713d38deb730508fb856802dec3b0a5c07f7078a"
+        "apiVersion": 1
     }
 
 ]
