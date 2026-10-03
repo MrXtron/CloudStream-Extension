@@ -128,15 +128,15 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
-        "status": 3,
-        "version": 6,
-        "name": "MovieBox (Web) (Broken)",
+        "status": 1,
+        "version": 7,
+        "name": "MovieBox (Web)",
         "internalName": "MovieBox (Web)",
         "authors": [
             "Xtron"
         ],
         "description": "MovieBox- Movies and TV Series",
-        "fileSize": 44710,
+        "fileSize": 43250,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -145,7 +145,7 @@
         ],
         "iconUrl": "https://moviebox.ph/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-29f01c2f0c9e05ca0a69b5516bfb267558a69d30819adb382f9271154f270d33"
+        "fileHash": "sha256-22fa6505425642bfaf7ae8597b98d435c650ff6c7f7e367a22a446dec4d2ca69"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
