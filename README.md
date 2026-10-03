@@ -37,7 +37,7 @@ https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/build
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 18 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2** | TvSeries, Movie | 14 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Broken)** | Movie, TvSeries | 28 | ❌ |
-| <img src="https://moviebox.ph/favicon.ico" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Web) (Broken)** | Movie, TvSeries | 6 | ❌ |
+| <img src="https://moviebox.ph/favicon.ico" width="35" height="35" style="border-radius: 20%;"> | **MovieBox (Web)** | Movie, TvSeries | 7 | ✅ |
 | <img src="https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png" width="35" height="35" style="border-radius: 20%;"> | **Movies4u** | Movie, TvSeries | 5 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png" width="35" height="35" style="border-radius: 20%;"> | **MultiMovies** | Movie, TvSeries, Anime | 30 | ✅ |
 | <img src="https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png" width="35" height="35" style="border-radius: 20%;"> | **RadioIndia** | Live | 7 | ✅ |
