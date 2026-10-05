@@ -265,6 +265,26 @@
         "jarHash": "sha256-8f58c8c6346c40990ae9a38ee9ee77e366c1eba006280a8d1a1d0ba5369f1285"
     },
     {
+        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Toontales.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Toontales",
+        "internalName": "Toontales",
+        "authors": [
+            "Xtron"
+        ],
+        "description": "ToonTales",
+        "fileSize": 10058,
+        "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
+        "language": "hi",
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "iconUrl": "https://www.toontales.net/wp-content/uploads/favicon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-af543b1137b8c4d3cf980bf6804c4f2610348889a148e04fb535a01ea5aaf092"
+    },
+    {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/VegaMovies.cs3",
         "status": 1,
         "version": 2,
