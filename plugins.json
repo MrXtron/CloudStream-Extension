@@ -136,7 +136,7 @@
             "Xtron"
         ],
         "description": "MovieBox- Movies and TV Series",
-        "fileSize": 43250,
+        "fileSize": 43260,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -145,7 +145,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox2.png",
         "apiVersion": 1,
-        "fileHash": "sha256-213c68bd6f431d920b1ec8c71881d50b738d8df64eb8112704d6b9a9f05757f3"
+        "fileHash": "sha256-d54801620d825a53adadabc0f49f0ed93ac1dedf83fc7d20f26e7425f4c8e932"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
