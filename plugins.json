@@ -127,16 +127,16 @@
         "fileHash": "sha256-40b2b0a1407e1df738dc95296087cf947c66a52af5df2ac3e67edb419d315f44"
     },
     {
-        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox (Web).cs3",
+        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBoxWeb.cs3",
         "status": 1,
         "version": 8,
-        "name": "MovieBox (Web)",
-        "internalName": "MovieBox (Web)",
+        "name": "MovieBoxWeb",
+        "internalName": "MovieBoxWeb",
         "authors": [
             "Xtron"
         ],
         "description": "MovieBox- Movies and TV Series",
-        "fileSize": 43260,
+        "fileSize": 43248,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -145,7 +145,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d54801620d825a53adadabc0f49f0ed93ac1dedf83fc7d20f26e7425f4c8e932"
+        "fileHash": "sha256-f465743312226c293148e3893694242910d8be5caef6c8198307f4ef96a6614a"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
@@ -327,6 +327,27 @@
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
         "apiVersion": 1,
         "fileHash": "sha256-91591e204d214df162c1ea353bcbe353170d2b615196da391be96a9d2e32feb2"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlayMobile.cs3",
+        "status": 1,
+        "version": 5,
+        "name": "XtronPlayMobile",
+        "internalName": "XtronPlayMobile",
+        "authors": [
+            "Xtron"
+        ],
+        "description": "All-in-One Premium Stream Engine for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
+        "fileSize": 70656,
+        "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ab65b735139aedf45ce41117184cc996b79e9b99a1f939a4ae2dbaf884364dd7"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
