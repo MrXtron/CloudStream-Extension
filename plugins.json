@@ -143,7 +143,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox2.png",
+        "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
         "fileHash": "sha256-d54801620d825a53adadabc0f49f0ed93ac1dedf83fc7d20f26e7425f4c8e932"
     },
@@ -310,14 +310,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
         "status": 1,
-        "version": 24,
+        "version": 21,
         "name": "XtronPlay",
         "internalName": "XtronPlay",
         "authors": [
             "Xtron"
         ],
         "description": "All-in-One Premium Stream Engine for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-        "fileSize": 94753,
+        "fileSize": 96307,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -326,19 +326,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6ff27c2f526b6997ee21553b306ce8b8c6ab46c411c6cd5d94dc09c2daf744cd"
+        "fileHash": "sha256-91591e204d214df162c1ea353bcbe353170d2b615196da391be96a9d2e32feb2"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "XtronTV",
         "internalName": "XtronTV",
         "authors": [
             "Xtron"
         ],
         "description": "Ultimate hub for Indian Hindi Daily Soaps & Dramas",
-        "fileSize": 61583,
+        "fileSize": 61592,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -347,6 +347,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9efb6764df13cb44b6afb30872bf65c480349620dfaee168960e6458dd661876"
+        "fileHash": "sha256-4fe8d2989a1ced234ef9b55c538c75a507da364c3d5e552dd05393c290fbc36e"
     }
 ]
