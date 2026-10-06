@@ -317,7 +317,7 @@
             "Xtron"
         ],
         "description": "All-in-One Premium Stream Engine for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-        "fileSize": 94451,
+        "fileSize": 94753,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -326,7 +326,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ed5a1225550d32a1a7aec787cbdcaa19d42b28df94f59507316b394e159b9e52"
+        "fileHash": "sha256-6ff27c2f526b6997ee21553b306ce8b8c6ab46c411c6cd5d94dc09c2daf744cd"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
