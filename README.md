@@ -45,8 +45,8 @@ https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/build
 | <img src="https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png" width="35" height="35" style="border-radius: 20%;"> | **ToonHub** | AnimeMovie, Anime, Cartoon | 11 | ✅ |
 | <img src="https://www.toontales.net/wp-content/uploads/favicon.png" width="35" height="35" style="border-radius: 20%;"> | **Toontales** | Cartoon | 1 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png" width="35" height="35" style="border-radius: 20%;"> | **VegaMovies** | TvSeries, Movie, AsianDrama, Anime | 2 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlay** | Movie, TvSeries | 21 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlayMobile** | Movie, TvSeries | 5 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlay** | Movie, TvSeries | 22 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlayMobile** | Movie, TvSeries | 6 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png" width="35" height="35" style="border-radius: 20%;"> | **XtronTV** | Movie, TvSeries | 25 | ✅ |
 
 **Total Plugins:** 17
