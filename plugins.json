@@ -115,7 +115,7 @@
             "Xtron"
         ],
         "description": "Stream top vertical dramas and reels aggregated from multiple Indian short-video platforms.",
-        "fileSize": 41586,
+        "fileSize": 41557,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -124,7 +124,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MicroTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7b921e5b63c9eefb91b9722d613a337f072e844b52b142f73a7ff413521078e0"
+        "fileHash": "sha256-7a3ee8128d81af89af744462488e3eac4b89417fbc22623f1eea465a9d011e80"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
