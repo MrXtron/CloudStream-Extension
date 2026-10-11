@@ -86,9 +86,9 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
-        "status": 1,
+        "status": 3,
         "version": 14,
-        "name": "HdMovie2",
+        "name": "HdMovie2 (Broken)",
         "internalName": "HdMovie2",
         "authors": [
             "Xtron"
@@ -171,14 +171,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "Movies4u",
         "internalName": "Movies4u",
         "authors": [
             ""
         ],
         "description": "Movies4u",
-        "fileSize": 73540,
+        "fileSize": 76017,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -187,10 +187,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9000e8e1a24585ec427dd123066f584a9fecc091909d85f1acbb6be7ebda65fc",
-        "jarFileSize": 362672,
+        "fileHash": "sha256-2966b85d096092410b9c8779bce0de04df5f8030f6815452de426b173ea5df43",
+        "jarFileSize": 366785,
         "jarUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.jar",
-        "jarHash": "sha256-be881c710e5b583787bf5d61d84f134b4b500920e327263ce61b4a831723d824"
+        "jarHash": "sha256-2f74fad427f30d49eee7988d55cca09c82e9686413c6ab5062b4e53377606c1b"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
