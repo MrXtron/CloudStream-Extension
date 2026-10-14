@@ -23,26 +23,6 @@
         "fileHash": "sha256-e12bcbfb028a12270b3b2574680535a864bb4bfcdbcff751ab2f07bc2c747e38"
     },
     {
-        "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyzone.cs3",
-        "status": 1,
-        "version": 10,
-        "name": "Bollyzone",
-        "internalName": "Bollyzone",
-        "authors": [
-            "MrXtron"
-        ],
-        "description": "Tv Shows Provider",
-        "fileSize": 32585,
-        "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
-        "language": "hi",
-        "tvTypes": [
-            "TvSeries"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/BollyZone.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-f3661e8b8cc9d9d291d483464aea987d5bcd90b2f603e28b6abf40feeddd6758"
-    },
-    {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
         "status": 1,
         "version": 14,
