@@ -174,9 +174,9 @@
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
-        "status": 1,
+        "status": 3,
         "version": 30,
-        "name": "MultiMovies",
+        "name": "MultiMovies (Broken)",
         "internalName": "MultiMovies",
         "authors": [
             "Xtron"
