@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyflix.cs3",
         "status": 1,
-        "version": 10,
+        "version": 11,
         "name": "Bollyflix",
         "internalName": "Bollyflix",
         "authors": [
             "Xtron"
         ],
         "description": "Movies and Series upto 4K",
-        "fileSize": 37886,
+        "fileSize": 37924,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -20,19 +20,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3091f28d597c1985282f2728fa0ce2c91368e13ca938e6c32ab4af609bd94851"
+        "fileHash": "sha256-3ee71f45c49a0354fe5c2a518c85b1c5f0ab2c74675fe9ad8ca75145d927dc9b"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
         "status": 1,
-        "version": 15,
+        "version": 16,
         "name": "DudeFilms",
         "internalName": "DudeFilms",
         "authors": [
             "Xtron"
         ],
         "description": "Watch Movies & TvSeries (Multi-Lang)",
-        "fileSize": 84581,
+        "fileSize": 84690,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -41,18 +41,18 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d5049225e5a751bf0fb7c35001c9ac7eabb087da5952d91a6591814924da0fbc"
+        "fileHash": "sha256-f3875979793f5958186759ad41c3416d0b9fff5c13d7f0093d69d94b641d775f"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdHub4U.cs3",
         "status": 1,
-        "version": 27,
+        "version": 28,
         "name": "HdHub4U",
         "internalName": "HdHub4U",
         "authors": [
             "Xtron"
         ],
-        "fileSize": 103924,
+        "fileSize": 104019,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -62,7 +62,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png",
         "apiVersion": 1,
-        "fileHash": "sha256-815861e9f714f7edb5beadbf8ddb27a8d175947ff295612599399bcd175f38d9"
+        "fileHash": "sha256-10aa9fd464990e8d0741b1586db4bceb87f48440fb6eccf2c1896bf88bbea2a5"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
@@ -151,14 +151,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.cs3",
         "status": 1,
-        "version": 9,
+        "version": 10,
         "name": "Movies4u",
         "internalName": "Movies4u",
         "authors": [
             ""
         ],
         "description": "Movies4u",
-        "fileSize": 78142,
+        "fileSize": 78830,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -167,10 +167,10 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ccf1b5eb69b4cfbd055caad8194b9a8c138a66bb43d190a1091d1f24e09a6213",
-        "jarFileSize": 373583,
+        "fileHash": "sha256-25b273504f2c87b678cd99c9341a6b44bc2ee6344d6602bcb9e8041006f20c38",
+        "jarFileSize": 376127,
         "jarUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Movies4u.jar",
-        "jarHash": "sha256-19db9c94807cc745d16e9264dbe37516feb918cacc97907fc853caa9e1255fa5"
+        "jarHash": "sha256-7bdcb61e41ff6162b983c8d5498b3e3ae98776351939e765a17eab07a484ae4d"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
@@ -220,14 +220,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RogMovies.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "RogMovies",
         "internalName": "RogMovies",
         "authors": [
             "Xtron"
         ],
         "description": "Your ultimate destination for high-quality entertainment, movies, and web series.",
-        "fileSize": 46193,
+        "fileSize": 46261,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -238,7 +238,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/RogMovies.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a886d97caf31e67c6f727fcf24a80bab9f0bd69dfcb6dc38ab49c4f62b8e0fee"
+        "fileHash": "sha256-ad7e9603c9cdbc024ce92da1a29432c065395bf8e6394e9a92ec42948b76e8e4"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/ToonHub.cs3",
@@ -288,14 +288,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/VegaMovies.cs3",
         "status": 1,
-        "version": 10,
+        "version": 12,
         "name": "VegaMovies",
         "internalName": "VegaMovies",
         "authors": [
             "Xtron"
         ],
         "description": " Ultimate Portal for HD Movies & Web Series",
-        "fileSize": 46082,
+        "fileSize": 46187,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -306,7 +306,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ff1643073589450816fa78156f50406a394df0dfe0c66a18272c07b0fb994adf"
+        "fileHash": "sha256-7001c61d5d877100960eeb767d512de98941373c0fc24e53cf177e7ae425bcb5"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
