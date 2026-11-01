@@ -2,14 +2,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/Bollyflix.cs3",
         "status": 1,
-        "version": 11,
+        "version": 12,
         "name": "Bollyflix",
         "internalName": "Bollyflix",
         "authors": [
             "Xtron"
         ],
         "description": "Movies and Series upto 4K",
-        "fileSize": 44262,
+        "fileSize": 47322,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -20,7 +20,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png",
         "apiVersion": 1,
-        "fileHash": "sha256-638491650a0ac5db021468a939b3704c74bfe9dfe28b755b77a0d55e10949f37"
+        "fileHash": "sha256-2e979901877039dde7ccc6b80074318c2697940a14faa9ba37d5952533e5e410"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
