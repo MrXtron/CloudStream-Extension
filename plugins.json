@@ -25,14 +25,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "DudeFilms",
         "internalName": "DudeFilms",
         "authors": [
             "Xtron"
         ],
         "description": "Watch Movies & TvSeries (Multi-Lang)",
-        "fileSize": 85623,
+        "fileSize": 95866,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -41,7 +41,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png",
         "apiVersion": 1,
-        "fileHash": "sha256-836978c67c95bc974c428e4970431709c0e5e2840b01cd2d5eba915b04f3a760"
+        "fileHash": "sha256-80434930c8b3cdff8f440357ffa9c7405e910bbe3888c488dfc2f5c4df842716"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdHub4U.cs3",
