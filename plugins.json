@@ -46,13 +46,13 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdHub4U.cs3",
         "status": 1,
-        "version": 33,
+        "version": 32,
         "name": "HdHub4U",
         "internalName": "HdHub4U",
         "authors": [
             "Xtron"
         ],
-        "fileSize": 111917,
+        "fileSize": 111298,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -62,7 +62,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png",
         "apiVersion": 1,
-        "fileHash": "sha256-e047fdf1781b1df8f13a6716ed834355a83aa26704caee6066e48b67e1341758"
+        "fileHash": "sha256-a7b17ecb627d517355813dee9bca36f0f809660c67984115040998e249dc20c4"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
