@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/build
 | :---: | :--- | :--- | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/Bollyflix.png" width="35" height="35" style="border-radius: 20%;"> | **Bollyflix** | TvSeries, Movie, AsianDrama, Anime | 14 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png" width="35" height="35" style="border-radius: 20%;"> | **DudeFilms** | Movie, TvSeries | 19 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 29 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDHUB.png" width="35" height="35" style="border-radius: 20%;"> | **HdHub4U** | Movie, TvSeries, Anime | 33 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png" width="35" height="35" style="border-radius: 20%;"> | **HdMovie2 (Broken)** | TvSeries, Movie | 14 | ❌ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MicroTV.png" width="35" height="35" style="border-radius: 20%;"> | **MicroTV** | TvSeries, Movie | 2 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png" width="35" height="35" style="border-radius: 20%;"> | **MovieBox** | Movie, TvSeries | 31 | ✅ |
