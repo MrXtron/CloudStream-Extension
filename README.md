@@ -41,15 +41,14 @@ https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/build
 | <img src="https://raw.githubusercontent.com/mrxtron/CloudStream-Extension/refs/heads/main/Files/Icons/movies4u.png" width="35" height="35" style="border-radius: 20%;"> | **Movies4u** | Movie, TvSeries | 14 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png" width="35" height="35" style="border-radius: 20%;"> | **MultiMovies (Broken)** | Movie, TvSeries, Anime | 30 | ❌ |
 | <img src="https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png" width="35" height="35" style="border-radius: 20%;"> | **RadioIndia** | Live | 7 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/RogMovies.png" width="35" height="35" style="border-radius: 20%;"> | **RogMovies** | TvSeries, Movie, AsianDrama, Anime | 18 | ✅ |
 | <img src="https://toonhub4u.me/wp-content/uploads/2024/02/Untitled.png" width="35" height="35" style="border-radius: 20%;"> | **ToonHub** | AnimeMovie, Anime, Cartoon | 11 | ✅ |
 | <img src="https://www.toontales.net/wp-content/uploads/favicon.png" width="35" height="35" style="border-radius: 20%;"> | **Toontales** | Cartoon | 1 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png" width="35" height="35" style="border-radius: 20%;"> | **VegaMovies** | TvSeries, Movie, AsianDrama, Anime | 13 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png" width="35" height="35" style="border-radius: 20%;"> | **VegaMovies** | TvSeries, Movie, AsianDrama, Anime | 14 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlay** | Movie, TvSeries | 22 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlayMobile** | Movie, TvSeries | 7 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png" width="35" height="35" style="border-radius: 20%;"> | **XtronTV** | Movie, TvSeries | 25 | ✅ |
 
-**Total Plugins:** 17
+**Total Plugins:** 16
 
 
 <!-- END_PLUGIN_LIST -->
