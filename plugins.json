@@ -109,14 +109,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBox.cs3",
         "status": 1,
-        "version": 36,
+        "version": 37,
         "name": "MovieBox",
         "internalName": "MovieBox",
         "authors": [
             "Xtron"
         ],
         "description": "Multi Language Movies and Series Provider",
-        "fileSize": 235882,
+        "fileSize": 234164,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -125,7 +125,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
         "apiVersion": 1,
-        "fileHash": "sha256-921d20fb97398b2786e13a2b4a9ce528a64db51ab6df46355a59826e2e072b34"
+        "fileHash": "sha256-80aacbc08c7eb8a6369138dbf86543c44ab09d828919564d0e50f98ff3a481c9"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBoxWeb.cs3",
@@ -321,14 +321,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "XtronTV",
         "internalName": "XtronTV",
         "authors": [
             "Xtron"
         ],
         "description": "Ultimate hub for Indian Hindi Daily Soaps & Dramas",
-        "fileSize": 158095,
+        "fileSize": 158139,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -337,6 +337,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ff789704cfbd70422c0c9824c8dfe3450fc254e3607af32b6d85c9258a03b12e"
+        "fileHash": "sha256-0796b0d7f5469a7f7e6bdd0042195f8d500a84bdebb3f3956beab8a4c526b47b"
     }
 ]
