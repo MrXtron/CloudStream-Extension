@@ -8,7 +8,7 @@ Welcome to the ultimate hub for Indian entertainment on Cloudstream! This extens
 ## 🚀 Getting Started
 
 ### 🎯 Requirements
-* **CloudStream App** — Ensure you have the latest version installed. ([📥 Download / View Docs](https://github.io))
+* **CloudStream App** — Ensure you have the latest version installed. ([📥 Download / View Docs](https://recloudstream.github.io/csdocs))
 
 ### 🛠️ Installation Guide
 Choose **one** of the three methods below to install the extension:
