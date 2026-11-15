@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/build
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/VegaMovies.png" width="35" height="35" style="border-radius: 20%;"> | **VegaHub** | TvSeries, Movie, AsianDrama, Anime | 16 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlay** | Movie, TvSeries | 22 | ✅ |
 | <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png" width="35" height="35" style="border-radius: 20%;"> | **XtronPlayMobile** | Movie, TvSeries | 7 | ✅ |
-| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png" width="35" height="35" style="border-radius: 20%;"> | **XtronTV** | Movie, TvSeries | 29 | ✅ |
+| <img src="https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png" width="35" height="35" style="border-radius: 20%;"> | **XtronTV** | Movie, TvSeries | 30 | ✅ |
 
 **Total Plugins:** 16
 
