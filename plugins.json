@@ -321,7 +321,7 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "XtronTV",
         "internalName": "XtronTV",
         "authors": [
@@ -329,7 +329,7 @@
             "parmod19"
         ],
         "description": "Ultimate hub for Indian Hindi Daily Soaps & Dramas",
-        "fileSize": 218166,
+        "fileSize": 219533,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -338,6 +338,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
         "apiVersion": 1,
-        "fileHash": "sha256-08e51327d471457891b94741ef50ca8aed10a33829578e321338636466180a62"
+        "fileHash": "sha256-c50ee136593d4d25142ac2ae1b3cecccbe2239054a002ded33f639b211813848"
     }
 ]
