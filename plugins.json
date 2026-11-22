@@ -279,14 +279,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "XtronPlay",
         "internalName": "XtronPlay",
         "authors": [
             "Xtron"
         ],
         "description": "All-in-One Premium Stream Engine for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-        "fileSize": 182810,
+        "fileSize": 182804,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -295,19 +295,19 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
         "apiVersion": 1,
-        "fileHash": "sha256-b4a25edb9cc548afe7e5e37da16f92f5e2b08975ec451c3a17938d19074db1d3"
+        "fileHash": "sha256-bea7b7ae003e0f8c7fa22d83dc30c4baf3e9a34c8eb965650e1c576ccddfe481"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlayMobile.cs3",
         "status": 1,
-        "version": 7,
+        "version": 18,
         "name": "XtronPlayMobile",
         "internalName": "XtronPlayMobile",
         "authors": [
             "Xtron"
         ],
         "description": "Premium Stream Engine (Mobile Version) for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-        "fileSize": 181406,
+        "fileSize": 167684,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -316,7 +316,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ba5a60f772fde5047e7a425a3dd909dd445da2943810805fcbbeb4754e3e4123"
+        "fileHash": "sha256-b1cab7ea6aa863879927d7269ebc8eb5ff81525cf8074be6f0a1916e94654318"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronTV.cs3",
