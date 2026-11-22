@@ -67,14 +67,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
         "status": 1,
-        "version": 16,
+        "version": 17,
         "name": "HdMovie2",
         "internalName": "HdMovie2",
         "authors": [
             "Xtron"
         ],
         "description": "Hdmovie2",
-        "fileSize": 159945,
+        "fileSize": 160131,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -83,7 +83,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
         "apiVersion": 1,
-        "fileHash": "sha256-26d16c1039d121179a73c50fbe16f0746698c81ebdf8d1f58bf90e8ab187326d"
+        "fileHash": "sha256-2a96d19bc59315be3647c001a8376726d212929583dcaf4cead0a759310620a0"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MicroTV.cs3",
