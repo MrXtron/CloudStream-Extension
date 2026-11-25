@@ -172,14 +172,14 @@
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
         "status": 1,
-        "version": 31,
+        "version": 32,
         "name": "MultiMovies",
         "internalName": "MultiMovies",
         "authors": [
             "Xtron"
         ],
         "description": "Indian Multi-language HD Provider",
-        "fileSize": 176088,
+        "fileSize": 178174,
         "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
         "language": "hi",
         "tvTypes": [
@@ -189,7 +189,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png",
         "apiVersion": 1,
-        "fileHash": "sha256-65af7233c58c5d5f85272a40bda26bd5310800683e853aef93acc8e9483cd89c"
+        "fileHash": "sha256-3a1a108dd26f77345423fc461f91e30364054db119851a495182875349beeedf"
     },
     {
         "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndia.cs3",
